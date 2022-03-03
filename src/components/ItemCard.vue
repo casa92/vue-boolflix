@@ -29,7 +29,8 @@
             <div>Overview: {{ description.overview }}</div>
             <div>Voto: {{ Math.round(description.vote_average / 2) }}</div>
             <div>
-                {{roundedVote()}}
+            <!-- <div class="vote" -->
+                <!-- {{roundedVote()}} -->
 
                 
                 <!-- <div class="prova" v-for=""></div> -->
